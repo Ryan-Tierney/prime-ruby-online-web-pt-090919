@@ -6,4 +6,4 @@ def prime?(num)
   true
 end
 
-puts benchmark.measure
+benchmark.measure
